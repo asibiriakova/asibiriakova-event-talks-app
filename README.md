@@ -1,1 +1,0 @@
-# asibiriakova-event-talks-app
